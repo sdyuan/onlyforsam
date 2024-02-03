@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentine's Day Invitation</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+        #invitation {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <div id="invitation">
+        <h1>Valentine's Day Invitation</h1>
+        <p>Dear [Crush's Name],</p>
+        <p>On this special day, I would be honored if you could be my Valentine. Will you make my day even more special by saying yes?</p>
+        <p>Feel free to reach out to me with your response. I hope to hear from you soon!</p>
+        <p>Sincerely,<br>Your Name</p>
+    </div>
+
+</body>
+</html>
